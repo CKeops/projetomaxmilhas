@@ -1,0 +1,11 @@
+Para a execução deste script é nescessario adaptar o campos comentados no script power shell com o caminho no qual você esta executando este script.
+
+Também é nescessario apos o inicio digitar 3 para selecionar o tipo de vm a ser instalada (Não consegui passar o paramentro no codigo)
+
+Minha ideia foi basicamente criar um script que execute os comandos para baixar e subir a maquina no Vagrant e através do Vagrantfile passar os comandos de instalção dos serviços.
+
+Não consegui realizar a configuração dos servidores porém este Script baixa configura e instala todo os serviços (Apache,MySQL,Zabbix Server e Agent)
+
+Obrigado pela oportunidade :) 
+May the Force be with you.
+Ass César Keops.
